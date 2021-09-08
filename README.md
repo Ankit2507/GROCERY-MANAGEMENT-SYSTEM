@@ -6,7 +6,7 @@ In this python project, we will build a grocery store management application. It
 
 ![](homepage.JPG)
 
-### Installation Instructions
+
 
 
 
